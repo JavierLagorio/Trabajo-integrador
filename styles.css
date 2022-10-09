@@ -1,0 +1,19 @@
+#oradores {
+    text-align:center;
+}
+
+.end-10 {
+    right: 10%
+}
+   
+.galeria {
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    row-gap: 10px ;
+    column-gap: 10px;
+    justify-content: center;
+}
+
+.container-flex {
+    font-size: small;
+}
